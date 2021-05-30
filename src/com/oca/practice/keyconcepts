@@ -1,0 +1,6 @@
+Key Points-
+
+a) Access modifier of a constructor is same as the access modifier of declared class. For e.g. Let us say we have a class MyClass which is public
+with empty body. Then it will have a default constructor and the access modifier of the it will be public as MyClass.
+
+b) Name of field and method can be same in a class as they are different members of a class but we should not do it to avoid ambuiguity.
